@@ -1,0 +1,7 @@
+D:\rep\git\projects\hubspot_client\HubspotClient\bin\Debug\HubspotClient.exe.config
+D:\rep\git\projects\hubspot_client\HubspotClient\bin\Debug\HubspotClient.exe
+D:\rep\git\projects\hubspot_client\HubspotClient\bin\Debug\HubspotClient.pdb
+D:\rep\git\projects\hubspot_client\HubspotClient\obj\Debug\HubspotClient.csprojAssemblyReference.cache
+D:\rep\git\projects\hubspot_client\HubspotClient\obj\Debug\HubspotClient.csproj.CoreCompileInputs.cache
+D:\rep\git\projects\hubspot_client\HubspotClient\obj\Debug\HubspotClient.exe
+D:\rep\git\projects\hubspot_client\HubspotClient\obj\Debug\HubspotClient.pdb
